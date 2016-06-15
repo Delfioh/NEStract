@@ -18,7 +18,7 @@ namespace NEStract
         static void Main(string[] args)
         {
 
-            string filename = "zld2.nes";
+            string filename;
             string outfilename;
             FileStream romfile;
             BinaryReader reader;
